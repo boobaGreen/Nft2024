@@ -11,4 +11,7 @@ out/
 docs/
 
 # Dotenv file
-.env
+.
+
+broadcast/
+manuale.md
