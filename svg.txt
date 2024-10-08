@@ -2,10 +2,16 @@
   <text x="5" y="30" fill="none" stroke="red" font-size="35">I love SVG!</text>
 </svg>
 
-*base64 di example.svg
+*base64 di example.svg formattato su piu linee
 PHN2ZyBoZWlnaHQ9IjQwIiB3aWR0aD0iMjAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAw
 MC9zdmciPgogIDx0ZXh0IHg9IjUiIHk9IjMwIiBmaWxsPSJub25lIiBzdHJva2U9InJlZCIgZm9u
 dC1zaXplPSIzNSI+SSBsb3ZlIFNWRyE8L3RleHQ+Cjwvc3ZnPg==
+
+*base64 di example.svg --- ma tutto sulla stessa linea
+data:image/svg+xml;base64,
+PHN2ZyBoZWlnaHQ9IjQwIiB3aWR0aD0iMjAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAw
+MC9zdmciPjx0ZXh0IHg9IjUiIHk9IjMwIiBmaWxsPSJub25lIiBzdHJva2U9InJlZCIgZm9udC1z
+aXplPSIzNSI+SSBsb3ZlIFNWRyE8L3RleHQ+PC9zdmc+
 
 *base64 di example.svg + intestazione (visibile su browser)
 data:image/svg+xml;base64,
